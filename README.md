@@ -1,5 +1,7 @@
 # Free Claude skills by Try It, Build It
 
+[![skills.sh](https://skills.sh/b/tryitbuildit/claude-skills)](https://skills.sh/tryitbuildit/claude-skills)
+
 Three free, original Claude skills (Agent Skills in the open SKILL.md format) for indie builders shipping real apps. They come from shipping a Chrome extension and Android apps with Claude Code. They work in Claude Code and Claude.ai.
 
 | Skill | What it does |
