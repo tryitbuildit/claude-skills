@@ -1,0 +1,23 @@
+{
+  "name": "tryitbuildit",
+  "owner": {
+    "name": "Try It, Build It"
+  },
+  "metadata": {
+    "description": "Free starter Claude skills from Try It, Build It: ship Android apps through Google Play's closed test, pass store listing review, and set up CLAUDE.md.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "starter-skills",
+      "description": "Three free Claude skills for indie builders: Google Play closed test coach, store listing checker and CLAUDE.md starter.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/play-closed-test",
+        "./skills/store-listing-check",
+        "./skills/claude-md-starter"
+      ]
+    }
+  ]
+}
