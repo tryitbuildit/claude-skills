@@ -61,4 +61,6 @@ When the dashboard shows 12 or more testers opted in for 14 days, apply for prod
 
 ---
 
+Want every form, message and fix ready to fill in? The full [App Launch Kit](https://tryitbuildit.com/launch-kit) adds every Play Console App content answer, tester posts and a 14-day tracker, production access drafts, rejection fixes and three checking tools.
+
 Made by [Try It, Build It](https://tryitbuildit.com). More tested Claude skills: https://tryitbuildit.com/skills. Step-by-step app guide: https://tryitbuildit.com/guides/build-an-app-with-claude-code
