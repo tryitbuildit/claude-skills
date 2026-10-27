@@ -41,4 +41,6 @@ Keep every claim true. Don't invent user counts, ratings or awards.
 
 ---
 
+Want the full version? The [App Launch Kit](https://tryitbuildit.com/launch-kit) adds ready-to-fill Chrome and Play templates, every Chrome rejection code with its fix, real approved examples and three checking tools.
+
 Made by [Try It, Build It](https://tryitbuildit.com). More tested Claude skills: https://tryitbuildit.com/skills
